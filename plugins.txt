@@ -29,6 +29,7 @@ display-url-api
 docker-commons
 docker-workflow
 durable-task
+email-ext
 favorite
 ghprb
 git
@@ -51,6 +52,7 @@ gradle
 gravatar
 greenballs
 handlebars
+htmlpublisher
 icon-shim
 jackson2-api
 javadoc
@@ -58,6 +60,7 @@ jquery-detached
 jsch
 junit
 kerberos-sso
+kubernetes
 kubernetes-cd
 ldap
 mailer
@@ -94,6 +97,8 @@ rebuild
 resource-disposer
 scm-api
 script-security
+simple-theme-plugin
+slack
 sse-gateway
 ssh-agent
 ssh-credentials
